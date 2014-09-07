@@ -9,11 +9,7 @@ import edu.columbia.beans.Agent;
 import edu.columbia.beans.ContactHistory;
 import edu.columbia.beans.Customer;
 
-/**
- * 
- * @author AllenNg
- *
- */
+
 public class Administrator {
 	public int addCustomer() {
 		return 0;

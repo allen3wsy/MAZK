@@ -3,9 +3,9 @@
  * @author Zhan.
  * Copyright (c) 2014 Company. All rights reserved. 
  */
-package edu.modernapp.beans;
-import edu.modernapp.beans.Customer;
-import edu.modernapp.beans.Agent;
+package edu.beans;
+import edu.beans.Agent;
+import edu.beans.Customer;
 
 
 

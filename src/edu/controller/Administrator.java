@@ -3,11 +3,11 @@
  * @author Zhan.
  * Copyright (c) 2014 Company. All rights reserved. 
  */
-package edu.controller.administrator;
+package edu.controller;
 
-import edu.modernapp.beans.Agent;
-import edu.modernapp.beans.ContactHistory;
-import edu.modernapp.beans.Customer;
+import edu.beans.Agent;
+import edu.beans.ContactHistory;
+import edu.beans.Customer;
 
 public class Administrator {
 	public int addCustomer() {

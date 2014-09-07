@@ -3,7 +3,7 @@
  * @author Zhan.
  * Copyright (c) 2014 Company. All rights reserved. 
  */
-package edu.modernapp.beans;
+package edu.beans;
 
 public class Customer extends Person {
 

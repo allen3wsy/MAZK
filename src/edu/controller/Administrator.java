@@ -9,11 +9,7 @@ import edu.beans.Agent;
 import edu.beans.ContactHistory;
 import edu.beans.Customer;
 
-/**
- * 
- * @author AllenNg
- *
- */
+
 public class Administrator {
 	public int addCustomer() {
 		return 0;

@@ -1,0 +1,4 @@
+MAZK
+====
+
+First assignment

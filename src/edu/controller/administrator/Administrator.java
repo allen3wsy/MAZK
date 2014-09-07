@@ -9,6 +9,11 @@ import edu.modernapp.beans.Agent;
 import edu.modernapp.beans.ContactHistory;
 import edu.modernapp.beans.Customer;
 
+/**
+ * 
+ * @author AllenNg
+ *
+ */
 public class Administrator {
 	public int addCustomer() {
 		return 0;

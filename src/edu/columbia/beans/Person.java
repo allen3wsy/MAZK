@@ -3,7 +3,7 @@
  * @author Zhan.
  * Copyright (c) 2014 Company. All rights reserved. 
  */
-package edu.beans;
+package edu.columbia.beans;
 
 public abstract class Person {
 	protected String name;

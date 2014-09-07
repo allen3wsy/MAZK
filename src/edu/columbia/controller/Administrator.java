@@ -3,11 +3,11 @@
  * @author Zhan.
  * Copyright (c) 2014 Company. All rights reserved. 
  */
-package edu.controller;
+package edu.columbia.controller;
 
-import edu.beans.Agent;
-import edu.beans.ContactHistory;
-import edu.beans.Customer;
+import edu.columbia.beans.Agent;
+import edu.columbia.beans.ContactHistory;
+import edu.columbia.beans.Customer;
 
 /**
  * 

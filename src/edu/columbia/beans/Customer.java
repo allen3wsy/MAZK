@@ -1,14 +1,18 @@
 /*
- * Agent.java
+ * Customer.java
  * @author Zhan.
  * Copyright (c) 2014 Company. All rights reserved. 
  */
-package edu.beans;
+package edu.columbia.beans;
 
-public class Agent extends Person {
-	private String aid;
+public class Customer extends Person {
 
+	private String cid;
+	private Agent agent;
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
 	}
+
 }
